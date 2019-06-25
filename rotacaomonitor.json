@@ -1,0 +1,53 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": false,
+  "lazyLoadTabs": true,
+  "websites": [
+    {
+      "url": "https://app.powerbi.com/groups/me/apps/5886d55a-e02d-4bca-ac43-549343f6fd45/reports/6064769e-9838-4165-a449-68d119c65845/ReportSection32345984b9d10cb65503?chromeless=true",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 4000
+    },
+    {
+      "url": "https://app.powerbi.com/groups/me/apps/5886d55a-e02d-4bca-ac43-549343f6fd45/reports/6064769e-9838-4165-a449-68d119c65845/ReportSection7d4e56e50128ba840367?chromeless=true",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 4000
+    },
+    {
+      "url": "https://app.powerbi.com/groups/dae2a0da-2925-4d56-872d-74961c5a78af/reports/6064769e-9838-4165-a449-68d119c65845/ReportSection32345984b9d10cb65503?chromeless=true",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 4000
+    },
+    {
+      "url": "https://app.powerbi.com/groups/me/apps/5886d55a-e02d-4bca-ac43-549343f6fd45/reports/6064769e-9838-4165-a449-68d119c65845/ReportSectioned0afe5bb074dcba8acc?chromeless=true",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 4000
+    },
+    {
+      "url": "https://app.powerbi.com/groups/me/apps/5886d55a-e02d-4bca-ac43-549343f6fd45/reports/8fd092ae-576d-437d-938e-9e53b5a27fbc/ReportSection9fb649a7adf9d6e45f37?chromeless=true",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 4000
+    },
+	{
+      "url": "https://app.powerbi.com/groups/me/apps/5886d55a-e02d-4bca-ac43-549343f6fd45/reports/5f882a1f-0652-4b30-b1b0-53a730f6bf77/ReportSectiond0e434a1478883943895?chromeless=true",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 4000
+    },
+{
+      "url": "https://app.powerbi.com/groups/dae2a0da-2925-4d56-872d-74961c5a78af/reports/1949a9f1-4a7a-4dea-aca7-4607abdd3584/ReportSectionea926d755ed67de9e5df?chromeless=true",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 4000
+    },
+{
+      "url": "http://www.portalsetorialfiesc.com.br/",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 4000
+    },
+{
+      "url": "http://www.portalsetorialfiesc.com.br/indicadores",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 4000
+    }
+  ]
+}
