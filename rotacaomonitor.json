@@ -47,7 +47,7 @@
 {
       "url": "http://www.portalsetorialfiesc.com.br/indicadores",
       "duration": 20,
-      "tabReloadIntervalSeconds": 4000
+      "tabReloadIntervalSeconds": 400
     }
   ]
 }
