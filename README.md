@@ -1,1 +1,1 @@
-# Hostin public parameters files.
+# Hosting public parameters files.
