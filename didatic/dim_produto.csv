@@ -1,0 +1,10 @@
+sk_produto,nm_produto,ds_unidade_medida,vl_preco_unitario,nm_arquivo,lk_icone,lk_site
+1,Camarão,kg,20,did_cam.png,https://zapppsr.github.io/images/didatic/did_cam.png,https://pt.wikipedia.org/wiki/Camar%C3%A3o
+2,Peixe,kg,5,did_pei.png,https://zapppsr.github.io/images/didatic/did_pei.png,https://pt.wikipedia.org/wiki/Peixe
+3,Massas,kg,10,did_mac.png,https://zapppsr.github.io/images/didatic/did_mac.png,https://pt.wikipedia.org/wiki/Macarr%C3%A3o
+4,Vinho,garrafa,25,did_vin.png,https://zapppsr.github.io/images/didatic/did_vin.png,https://pt.wikipedia.org/wiki/Vinho
+5,Refrigerante,garrafa,3,did_ref.png,https://zapppsr.github.io/images/didatic/did_ref.png,https://pt.wikipedia.org/wiki/Refrigerante
+6,Cerveja,garrafa,4,did_cer.png,https://zapppsr.github.io/images/didatic/did_cer.png,https://pt.wikipedia.org/wiki/Cerveja
+7,Ticket Praia,ticket,10,did_pra.png,https://zapppsr.github.io/images/didatic/did_pra.png,https://pt.wikipedia.org/wiki/Praia
+8,Ticket Vida Noturna,ticket,50,did_vid.png,https://zapppsr.github.io/images/didatic/did_vid.png,https://pt.wikipedia.org/wiki/Discoteca
+9,Ticket Shopping,ticket,30,did_sho.png,http://arquivosbi.fiesc.com.br/images/powerbidid/did_sho.png,https://pt.wikipedia.org/wiki/Centro_comercial
