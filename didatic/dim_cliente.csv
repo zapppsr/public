@@ -1,0 +1,21 @@
+sk_cliente,nm_cliente,ds_cpf,dt_nascimento,ds_genero,ds_estado_civil,ds_fidelidade,ds_fidelidade_cor,ds_estadocivil_q,vl_idade,ds_faixa_etaria
+1,João da Silva,90419974660,15/08/70,Masculino,Casado,Amarelo-17456,Amarelo,Casado,54,40 a 59 anos
+2,Maria da Silva,33958923453,15/09/71,Feminino,Solteiro,Amarelo-23456,Amarelo,Solteiro,53,40 a 59 anos
+3,Pedro da Silva,57139572678,15/10/72,Masculino,Casado,Amarelo-75645,Amarelo,Casado,52,40 a 59 anos
+4,Antonio Costa,67385327487,20/08/80,Masculino,Solteiro,Verde-34561,Verde,Solteiro,44,40 a 59 anos
+5,Carlos Costa,16467723541,20/09/81,Masculino,,Verde-23467,Verde,Não Informado,43,40 a 59 anos
+6,Joana Costa,36027619364,20/10/82,Feminino,Solteiro,Verde-76542,Verde,Solteiro,42,40 a 59 anos
+7,Alberto Pereira,54450324086,30/08/90,Masculino,Casado,Azul-33445,Azul,Casado,34,25 a 39 anos
+8,Silvia Pereira,28648282418,30/09/91,Feminino,,Azul-45632,Azul,Não Informado,33,25 a 39 anos
+9,Claudia Pereira,64527412588,30/10/92,Feminino,Casado,Azul-48971,Azul,Casado,32,25 a 39 anos
+10,Marcia Santos,49955566844,10/02/40,Feminino,Solteiro,Vermelho-54676,Vermelho,Solteiro,85,65 anos ou mais
+11,Roberto Santos,16664899978,10/03/41,Masculino,Casado,Vermelho-39162,Vermelho,Casado,84,65 anos ou mais
+12,Gisele Santos,39146476294,10/04/42,Feminino,Solteiro,Vermelho-76521,Vermelho,Solteiro,83,65 anos ou mais
+13,André Gonçalves,93722824333,05/05/60,Masculino,Casado,Cinza-41234,Cinza,Casado,65,60 a 64 anos
+14,Katia Gonçalves,82539832075,05/06/61,Feminino,Solteiro,Cinza-47212,Cinza,Solteiro,63,60 a 64 anos
+15,Silvio Gonçalves,73645447823,05/07/62,Masculino,,Cinza-98764,Cinza,Não Informado,62,60 a 64 anos
+16,Juliana Soares,73687259223,03/03/50,Feminino,Solteiro,Amarelo-55663,Amarelo,Solteiro,75,65 anos ou mais
+17,Daniel Soares,55363058998,03/04/51,Masculino,Casado,Verde-11176,Verde,Casado,74,65 anos ou mais
+18,James Soares,78262743176,03/05/52,Masculino,Solteiro,Azul-99987,Azul,Solteiro,73,65 anos ou mais
+19,Willian Gates,61348053352,28/10/55,Masculino,Casado,Gold-00001,Gold,Casado,69,65 anos ou mais
+20,Steveson Jobs,71935056476,24/02/55,Masculino,Casado,Gold-00002,Gold,Casado,70,65 anos ou mais
