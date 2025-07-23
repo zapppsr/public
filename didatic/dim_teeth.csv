@@ -1,0 +1,33 @@
+tooth_id,tooth_name,quadrant,arch,side,tooth_type,is_wisdom_tooth
+1,Third Molar,Upper Right,Upper,Right,Molar,True
+2,Second Molar,Upper Right,Upper,Right,Molar,False
+3,First Molar,Upper Right,Upper,Right,Molar,False
+4,Second Premolar,Upper Right,Upper,Right,Premolar,False
+5,First Premolar,Upper Right,Upper,Right,Premolar,False
+6,Canine,Upper Right,Upper,Right,Canine,False
+7,Lateral Incisor,Upper Right,Upper,Right,Incisor,False
+8,Central Incisor,Upper Right,Upper,Right,Incisor,False
+9,Central Incisor,Upper Left,Upper,Left,Incisor,False
+10,Lateral Incisor,Upper Left,Upper,Left,Incisor,False
+11,Canine,Upper Left,Upper,Left,Canine,False
+12,First Premolar,Upper Left,Upper,Left,Premolar,False
+13,Second Premolar,Upper Left,Upper,Left,Premolar,False
+14,First Molar,Upper Left,Upper,Left,Molar,False
+15,Second Molar,Upper Left,Upper,Left,Molar,False
+16,Third Molar,Upper Left,Upper,Left,Molar,True
+17,Third Molar,Lower Left,Lower,Left,Molar,True
+18,Second Molar,Lower Left,Lower,Left,Molar,False
+19,First Molar,Lower Left,Lower,Left,Molar,False
+20,Second Premolar,Lower Left,Lower,Left,Premolar,False
+21,First Premolar,Lower Left,Lower,Left,Premolar,False
+22,Canine,Lower Left,Lower,Left,Canine,False
+23,Lateral Incisor,Lower Left,Lower,Left,Incisor,False
+24,Central Incisor,Lower Left,Lower,Left,Incisor,False
+25,Central Incisor,Lower Right,Lower,Right,Incisor,False
+26,Lateral Incisor,Lower Right,Lower,Right,Incisor,False
+27,Canine,Lower Right,Lower,Right,Canine,False
+28,First Premolar,Lower Right,Lower,Right,Premolar,False
+29,Second Premolar,Lower Right,Lower,Right,Premolar,False
+30,First Molar,Lower Right,Lower,Right,Molar,False
+31,Second Molar,Lower Right,Lower,Right,Molar,False
+32,Third Molar,Lower Right,Lower,Right,Molar,True
